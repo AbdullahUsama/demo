@@ -1,6 +1,7 @@
-# n8n-demo
+# Manim demo
 
 ## Sample Video
 
-https://github.com/user-attachments/assets/70294d5e-fe50-4bd5-85cc-225907b9f03b
+
+https://github.com/user-attachments/assets/ddb7b4d7-c044-487c-8e12-200e71895d2e
 
